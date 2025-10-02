@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @wrldofern3st
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.instagram.com/wrldof.ern3st._/?igsh=YWUxc21ob3o0a3Fv
+- 👀 I’m interested in ... mathematics 
+- 🌱 I’m currently learning ...data analysis 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i like gaming
 

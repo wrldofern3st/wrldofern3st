@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wrldofern3st
+- 👋 Hi, I’m Ernest
 - 👀 I’m interested in ... mathematics 
 - 🌱 I’m currently learning ...data analysis 
 - 😄 Pronouns: ...he/him
